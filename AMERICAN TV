@@ -235,7 +235,7 @@ http://45.5.117.172:8100/play/a067/index.m3u8
 http://45.5.117.172:8100/play/a06f/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a03f.png",Nick 2 HD
 http://45.5.117.172:8100/play/a03f/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a02t.png",Playboy
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a02t.png",Pl@yboy
 http://45.5.117.172:8100/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05w.png",Red 25 Totonicapan
 http://45.5.117.172:8100/play/a05w/index.m3u8
@@ -275,7 +275,7 @@ http://45.5.117.172:8100/play/a02v/index.m3u8
 http://45.5.117.172:8100/play/a06e/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a069.png",UNIVERSAL CINEMA ESTE HD
 http://45.5.117.172:8100/play/a069/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a02u.png",VENUS
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a02u.png",VĖNUS
 http://45.5.117.172:8100/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a065.png",VTV Canal 35 ESA
 http://45.5.117.172:8100/play/a065/index.m3u8
