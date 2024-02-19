@@ -23,12 +23,12 @@ http://45.65.137.206:8000/play/a0g8/index.m3u8
 http://45.65.137.206:8000/play/a0gb/index.m3u8
 #EXTINF:-1,ESPN 2 Latin
 http://45.65.137.206:8000/play/a0ga/index.m3u8
+#EXTINF:-1,Espn 6
+http://45.65.137.206:8000/play/a0gi/index.m3u8
+#EXTINF:-1,Espn 7
+http://45.65.137.206:8000/play/a0gh/index.m3u8
 #EXTINF:-1,Enlace
 http://45.65.137.206:8000/play/a0fm/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://45.65.137.206:8000/play/a0gh/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://45.65.137.206:8000/play/a0gi/index.m3u8
 #EXTINF:-1,History Channel
 http://45.65.137.206:8000/play/a0fa/index.m3u8
 #EXTINF:-1,I-Sat
