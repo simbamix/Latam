@@ -1,0 +1,169 @@
+#EXTM3U
+#EXTINF:-1, 68 FTA XF
+http://190.61.40.251:8000/play/r068/index.m3u8
+#EXTINF:-1,00 EXPLOREMOS
+http://190.61.40.251:8000/play/r000/index.m3u8
+#EXTINF:-1,01 CANAL CARACOL
+http://190.61.40.251:8000/play/r001/index.m3u8
+#EXTINF:-1,02 CARACOL TV HD
+http://190.61.40.251:8000/play/r002/index.m3u8
+#EXTINF:-1,03 Canal RCN
+http://190.61.40.251:8000/play/r003/index.m3u8
+#EXTINF:-1,04 RCN HD
+http://190.61.40.251:8000/play/r004/index.m3u8
+#EXTINF:-1,05 Canal Uno
+http://190.61.40.251:8000/play/r005/index.m3u8
+#EXTINF:-1,06 CANAL UNO HD
+http://190.61.40.251:8000/play/r006/index.m3u8
+#EXTINF:-1,07 SEÑAL COLOMBIA
+http://190.61.40.251:8000/play/r007/index.m3u8
+#EXTINF:-1,08 SEÑAL COLOMBIA HD
+http://190.61.40.251:8000/play/r008/index.m3u8
+#EXTINF:-1,09 CANAL TRECE
+http://190.61.40.251:8000/play/r009/index.m3u8
+#EXTINF:-1,10 CANAL TRECE +
+http://190.61.40.251:8000/play/r010/index.m3u8
+#EXTINF:-1,11 INSTITUCIONAL
+http://190.61.40.251:8000/play/r011/index.m3u8
+#EXTINF:-1,12 CONGRESO
+http://190.61.40.251:8000/play/r012/index.m3u8
+#EXTINF:-1,14 CANAL CAPITAL
+http://190.61.40.251:8000/play/r014/index.m3u8
+#EXTINF:-1,15 CANAL TRO
+http://190.61.40.251:8000/play/r015/index.m3u8
+#EXTINF:-1,16 CITY TV
+http://190.61.40.251:8000/play/r016/index.m3u8
+#EXTINF:-1,17 TELEANTIOQUIA
+http://190.61.40.251:8000/play/r017/index.m3u8
+#EXTINF:-1,18 TELECAFE
+http://190.61.40.251:8000/play/r018/index.m3u8
+#EXTINF:-1,19 TELECARIBE
+http://190.61.40.251:8000/play/r019/index.m3u8
+#EXTINF:-1,20 TELEISLAS
+http://190.61.40.251:8000/play/r020/index.m3u8
+#EXTINF:-1,21 TELEPACIFICO
+http://190.61.40.251:8000/play/r021/index.m3u8
+#EXTINF:-1,22 ZOOM
+http://190.61.40.251:8000/play/r022/index.m3u8
+#EXTINF:-1,24 LA KALLE
+http://190.61.40.251:8000/play/r024/index.m3u8
+#EXTINF:-1,25 MUSIC TV
+http://190.61.40.251:8000/play/r025/index.m3u8
+#EXTINF:-1,26 SHOW VEN
+http://190.61.40.251:8000/play/r026/index.m3u8
+#EXTINF:-1,27 FTA CN
+http://190.61.40.251:8000/play/r027/index.m3u8
+#EXTINF:-1,28 FTA NK
+http://190.61.40.251:8000/play/r028/index.m3u8
+#EXTINF:-1,29 FTA NKJ
+http://190.61.40.251:8000/play/r029/index.m3u8
+#EXTINF:-1,30 DREIKO
+http://190.61.40.251:8000/play/r030/index.m3u8
+#EXTINF:-1,31 -123 TV
+http://190.61.40.251:8000/play/r031/index.m3u8
+#EXTINF:-1,32 FTA DC
+http://190.61.40.251:8000/play/r032/index.m3u8
+#EXTINF:-1,33 DW LATINOAMERICA
+http://190.61.40.251:8000/play/r033/index.m3u8
+#EXTINF:-1,34 EL GARAGE TV
+http://190.61.40.251:8000/play/r034/index.m3u8
+#EXTINF:-1,35 RT ESPAÑOL
+http://190.61.40.251:8000/play/r035/index.m3u8
+#EXTINF:-1,36 FTA ANP
+http://190.61.40.251:8000/play/r036/index.m3u8
+#EXTINF:-1,37 EWTN EN ESPANOL
+http://190.61.40.251:8000/play/r037/index.m3u8
+#EXTINF:-1,38 TV FAMILIA
+http://190.61.40.251:8000/play/r038/index.m3u8
+#EXTINF:-1,39 RED ADVENIR
+http://190.61.40.251:8000/play/r039/index.m3u8
+#EXTINF:-1,40 CCI Channel
+http://190.61.40.251:8000/play/r040/index.m3u8
+#EXTINF:-1,41 CANAL HABANA
+http://190.61.40.251:8000/play/r041/index.m3u8
+#EXTINF:-1,42 ConCiencia TV
+http://190.61.40.251:8000/play/r042/index.m3u8
+#EXTINF:-1,43 GLOBOVISION
+http://190.61.40.251:8000/play/r043/index.m3u8
+#EXTINF:-1,44 TELESUR
+http://190.61.40.251:8000/play/r044/index.m3u8
+#EXTINF:-1,45 SEOTV HD
+http://190.61.40.251:8000/play/r045/index.m3u8
+#EXTINF:-1,46 CARACOL HD 2
+http://190.61.40.251:8000/play/r046/index.m3u8
+#EXTINF:-1,48 FTA FUT
+http://190.61.40.251:8000/play/r048/index.m3u8
+#EXTINF:-1,49 FTA FUT 2
+http://190.61.40.251:8000/play/r049/index.m3u8
+#EXTINF:-1,52 PLANETA RADIO TV
+http://190.61.40.251:8000/play/r052/index.m3u8
+#EXTINF:-1,53 Telesistema 11
+http://190.61.40.251:8000/play/r053/index.m3u8
+#EXTINF:-1,54 VENEVISION
+http://190.61.40.251:8000/play/r054/index.m3u8
+#EXTINF:-1,55 FTA TL
+http://190.61.40.251:8000/play/r055/index.m3u8
+#EXTINF:-1,56 UNITEL
+http://190.61.40.251:8000/play/r056/index.m3u8
+#EXTINF:-1,57 ECUAVISA
+http://190.61.40.251:8000/play/r057/index.m3u8
+#EXTINF:-1,58 ORONAR TV
+http://190.61.40.251:8000/play/r058/index.m3u8
+#EXTINF:-1,59 CANAL I
+http://190.61.40.251:8000/play/r059/index.m3u8
+#EXTINF:-1,61 CANAL 9
+http://190.61.40.251:8000/play/r061/index.m3u8
+#EXTINF:-1,62 CANAL 25
+http://190.61.40.251:8000/play/r062/index.m3u8
+#EXTINF:-1,63 CINCO TV
+http://190.61.40.251:8000/play/r063/index.m3u8
+#EXTINF:-1,64 AME CH47
+http://190.61.40.251:8000/play/r064/index.m3u8
+#EXTINF:-1,65 Avila TV
+http://190.61.40.251:8000/play/r065/index.m3u8
+#EXTINF:-1,66 TVES
+http://190.61.40.251:8000/play/r066/index.m3u8
+#EXTINF:-1,67 FTA CNAL
+http://190.61.40.251:8000/play/r067/index.m3u8
+#EXTINF:-1,69 COSMOS TV
+http://190.61.40.251:8000/play/r069/index.m3u8
+#EXTINF:-1,70 BUZZER TV
+http://190.61.40.251:8000/play/a02r/index.m3u8
+#EXTINF:-1,71 BARBE TV
+http://190.61.40.251:8000/play/r071/index.m3u8
+#EXTINF:-1,72 VISION TV
+http://190.61.40.251:8000/play/r072/index.m3u8
+#EXTINF:-1,73 FTA SC
+http://190.61.40.251:8000/play/r073/index.m3u8
+#EXTINF:-1,74 RETRO TV
+http://190.61.40.251:8000/play/r074/index.m3u8
+#EXTINF:-1,75 TELERED
+http://190.61.40.251:8000/play/r075/index.m3u8
+#EXTINF:-1,76 STV
+http://190.61.40.251:8000/play/r076/index.m3u8
+#EXTINF:-1,77 TELESISTEMA
+http://190.61.40.251:8000/play/r077/index.m3u8
+#EXTINF:-1,78 HCH
+http://190.61.40.251:8000/play/r078/index.m3u8
+#EXTINF:-1,79 CGTN
+http://190.61.40.251:8000/play/r079/index.m3u8
+#EXTINF:-1,80 EXTREMA TV
+http://190.61.40.251:8000/play/r080/index.m3u8
+#EXTINF:-1,81 Meridiano
+http://190.61.40.251:8000/play/r081/index.m3u8
+#EXTINF:-1,82 TLT
+http://190.61.40.251:8000/play/r082/index.m3u8
+#EXTINF:-1,83 TV MAS
+http://190.61.40.251:8000/play/r083/index.m3u8
+#EXTINF:-1,86 TELEANTILLAS
+http://190.61.40.251:8000/play/r086/index.m3u8
+#EXTINF:-1,87 RTV
+http://190.61.40.251:8000/play/r087/index.m3u8
+#EXTINF:-1,88 Gamavision
+http://190.61.40.251:8000/play/r088/index.m3u8
+#EXTINF:-1,89 TV Culturas
+http://190.61.40.251:8000/play/r089/index.m3u8
+#EXTINF:-1,90 Canal 11
+http://190.61.40.251:8000/play/r090/index.m3u8
+Mira contenido interesante
+Inicia sesión en tu cuenta y sigue a creadores y comunidades populares
