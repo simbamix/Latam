@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:11,A&E
+http://190.56.9.114:8000/play/a05s/index.m3u8
+#EXTINF:11,AMC
+http://190.56.9.114:8000/play/a05e/index.m3u8
+#EXTINF:11,ANIMAL PLANET
+http://190.56.9.114:8000/play/a05u/index.m3u8
+#EXTINF:11,AXN
+http://190.56.9.114:8000/play/a05c/index.m3u8
+#EXTINF:11,Baby First
+http://190.56.9.114:8000/play/a03i/index.m3u8
+#EXTINF:11,CANAL N
+http://190.56.9.114:8000/play/a03m/index.m3u8
+#EXTINF:11,CNNE
+http://190.56.9.114:8000/play/a05f/index.m3u8
+#EXTINF:11,CONCERT CHANNEL
+http://190.56.9.114:8000/play/a02r/index.m3u8
+#EXTINF:11,DHE
+http://190.56.9.114:8000/play/a052/index.m3u8
+#EXTINF:11,DISCOVERY H&H
+http://190.56.9.114:8000/play/a05t/index.m3u8
+#EXTINF:11,DISCOVERY H&H
+http://190.56.9.114:8000/play/a061/index.m3u8
+#EXTINF:11,DISCOVERY ID
+http://190.56.9.114:8000/play/a062/index.m3u8
+#EXTINF:11,DISCOVERY KIDS
+http://190.56.9.114:8000/play/a03l/index.m3u8
+#EXTINF:11,DISCOVERY KIDS HD
+http://190.56.9.114:8000/play/a03l/index.m3u8
+#EXTINF:11,DISCOVERY TURBO
+http://190.56.9.114:8000/play/a060/index.m3u8
+#EXTINF:11,E ENTERTAINMENT
+http://190.56.9.114:8000/play/a05r/index.m3u8
+#EXTINF:11,El Gourmet
+http://190.56.9.114:8000/play/a04p/index.m3u8
+#EXTINF:11,ESPN
+http://190.56.9.114:8000/play/a05y/index.m3u8
+#EXTINF:11,ESPN
+http://190.56.9.114:8000/play/a05j/index.m3u8
+#EXTINF:11,ESPN 2
+http://190.56.9.114:8000/play/a05z/index.m3u8
+#EXTINF:11,ESPN 2
+http://190.56.9.114:8000/play/a05k/index.m3u8
+#EXTINF:11,ESPN 2 HD
+http://190.56.9.114:8000/play/a04s/index.m3u8
+#EXTINF:11,ESPN 3
+http://190.56.9.114:8000/play/a05j/index.m3u8
+#EXTINF:11,ESPN 3 HD
+http://190.56.9.114:8000/play/a04t/index.m3u8
+#EXTINF:11,ESPN 4
+http://190.56.9.114:8000/play/a05k/index.m3u8
+#EXTINF:11,ESPN 5
+http://190.56.9.114:8000/play/a063/index.m3u8
+#EXTINF:11,ESPN 6
+http://190.56.9.114:8000/play/a059/index.m3u8
+#EXTINF:11,ESPN HD
+http://190.56.9.114:8000/play/a04r/index.m3u8
+#EXTINF:11,EURO Channel
+http://190.56.9.114:8000/play/a00x/index.m3u8
+#EXTINF:11,Europa HD
+http://190.56.9.114:8000/play/a00u/index.m3u8
+#EXTINF:11,Europa HD
+http://190.56.9.114:8000/play/a00u/index.m3u8
+#EXTINF:11,EWTN
+http://190.56.9.114:8000/play/a05g/index.m3u8
+#EXTINF:11,FILM&ARTS
+http://190.56.9.114:8000/play/a051/index.m3u8
+#EXTINF:11,GOLDEN
+http://190.56.9.114:8000/play/a05m/index.m3u8
+#EXTINF:11,HBO 2
+http://190.56.9.114:8000/play/a00c/index.m3u8
+#EXTINF:11,HBO XTREME
+http://190.56.9.114:8000/play/a054/index.m3u8
+#EXTINF:11,HISTORY
+http://190.56.9.114:8000/play/a05v/index.m3u8
+#EXTINF:11,HTV
+http://190.56.9.114:8000/play/a05l/index.m3u8
+#EXTINF:11,LATINO AMERICA SPORTS
+http://190.56.9.114:8000/play/a03j/index.m3u8
+#EXTINF:11,LIFE TIME
+http://190.56.9.114:8000/play/a058/index.m3u8
+#EXTINF:11,LIFE TIME
+http://190.56.9.114:8000/play/a058/index.m3u8
+#EXTINF:11,MTV
+http://190.56.9.114:8000/play/a064/index.m3u8
+#EXTINF:11,MTV 80s
+http://190.56.9.114:8000/play/a05b/index.m3u8
+#EXTINF:11,MTV Hits
+http://190.56.9.114:8000/play/a05a/index.m3u8
+#EXTINF:11,MULTICINEMA
+http://190.56.9.114:8000/play/a05o/index.m3u8
+#EXTINF:11,MULTIPREMIER
+http://190.56.9.114:8000/play/a066/index.m3u8
+#EXTINF:11,PARAMOUNT
+http://190.56.9.114:8000/play/a053/index.m3u8
+#EXTINF:11,PLAYBOY
+http://190.56.9.114:8000/play/a02t/index.m3u8
+#EXTINF:11,SONY CHANNEL
+http://190.56.9.114:8000/play/a05p/index.m3u8
+#EXTINF:11,Sony Movies HD
+http://190.56.9.114:8000/play/a03s/index.m3u8
+#EXTINF:11,SPACE
+http://190.56.9.114:8000/play/a055/index.m3u8
+#EXTINF:11,TCM
+http://190.56.9.114:8000/play/a05n/index.m3u8
+#EXTINF:11,TEEN NICK HD
+http://190.56.9.114:8000/play/a03f/index.m3u8
+#EXTINF:11,Tigo Sports HD
+http://190.56.9.114:8000/play/a02v/index.m3u8
+#EXTINF:11,TLC
+http://190.56.9.114:8000/play/a05w/index.m3u8
+#EXTINF:11,TNT
+http://190.56.9.114:8000/play/a05d/index.m3u8
+#EXTINF:11,TNT Novelas
+http://190.56.9.114:8000/play/a057/index.m3u8
+#EXTINF:11,TNT SERIES
+http://190.56.9.114:8000/play/a056/index.m3u8
+#EXTINF:11,TOONCAST
+http://190.56.9.114:8000/play/a03k/index.m3u8
+#EXTINF:11,VENUS
+http://190.56.9.114:8000/play/a02u/index.m3u8
+#EXTINF:11,WARNER TV
+http://190.56.9.114:8000/play/a05q/index.m3u8
