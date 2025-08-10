@@ -89,6 +89,8 @@ http://152.200.150.150:8000/play/a0n6/index.m3u8
 http://152.200.150.150:8000/play/a0dq/index.m3u8
 #EXTINF:-1 group-title="-",Disney Jr
 http://152.200.150.150:8000/play/a0jv/index.m3u8
+#EXTINF:-1 group-title="-",Ecuavisa
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?PlaylistM3UCL=&dpssid=b221464929956897e11b2e211&sid=ba5t1l1xb217264382696897e11b2e20f&ndvc=1
 #EXTINF:-1 group-title="-",ESPN
 http://152.200.150.150:8000/play/a0kb/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2
