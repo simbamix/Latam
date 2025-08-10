@@ -269,6 +269,8 @@ http://152.200.150.150:8000/play/a0hd/index.m3u8
 http://152.200.150.150:8000/play/a0jj/index.m3u8
 #EXTINF:-1 group-title="-",Universal
 http://152.200.150.150:8000/play/a0mp/index.m3u8
+#EXTINF:-1 group-title="-",Universo
+http://clubtv.link/7agosto/phpcode/lista0.php?c=68&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="-",Warner Channel HD
 http://152.200.150.150:8000/play/a0n2/index.m3u8
 #EXTINF:-1 group-title="-",Zaracay
