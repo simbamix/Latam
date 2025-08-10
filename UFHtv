@@ -189,8 +189,8 @@ http://152.200.150.150:8000/play/a0g5/index.m3u8
 http://152.200.150.150:8000/play/a08n/index.m3u8
 #EXTINF:-1 group-title="-",RCN HD
 http://152.200.150.150:8000/play/a0mt/index.m3u8
-#EXTINF:-1 group-title="-",RT
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="-",RTU
+https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-1 group-title="-",RUMBA TV
 http://152.200.150.150:8000/play/a04q/index.m3u8
 #EXTINF:-1 group-title="-",STAR CHANNEL HD
@@ -243,6 +243,8 @@ http://152.200.150.150:8000/play/a0lk/index.m3u8
 http://152.200.150.150:8000/play/a08g/index.m3u8
 #EXTINF:-1 group-title="-",TVN HD
 http://152.200.150.150:8000/play/a0g4/index.m3u8
+#EXTINF:-1 group-title="-",Teleamazonas
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
 #EXTINF:-1 group-title="-",Teleantioquia
 http://152.200.150.150:8000/play/a0lu/index.m3u8
 #EXTINF:-1 group-title="-",Telecafe
@@ -269,6 +271,8 @@ http://152.200.150.150:8000/play/a0jj/index.m3u8
 http://152.200.150.150:8000/play/a0mp/index.m3u8
 #EXTINF:-1 group-title="-",Warner Channel HD
 http://152.200.150.150:8000/play/a0n2/index.m3u8
+#EXTINF:-1 group-title="-",Zaracay
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-1 group-title="-",ZOOM
 http://152.200.150.150:8000/play/a0ce/index.m3u8
 #EXTINF:-1 group-title="-",Zoom
