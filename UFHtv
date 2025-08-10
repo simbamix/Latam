@@ -189,6 +189,8 @@ http://152.200.150.150:8000/play/a0g5/index.m3u8
 http://152.200.150.150:8000/play/a08n/index.m3u8
 #EXTINF:-1 group-title="-",RCN HD
 http://152.200.150.150:8000/play/a0mt/index.m3u8
+#EXTINF:-1 group-title="-",RT
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="-",RUMBA TV
 http://152.200.150.150:8000/play/a04q/index.m3u8
 #EXTINF:-1 group-title="-",STAR CHANNEL HD
