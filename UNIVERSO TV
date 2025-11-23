@@ -65,6 +65,12 @@ http://189.50.210.3:8008/play/a02t/index.m3u8
 http://189.50.210.3:8008/play/a05q/index.m3u8
 #EXTINF:-1 group-title="-",ESPN
 http://189.50.210.3:8008/play/a03u/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://189.50.210.3:8008/play/a038/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://189.50.210.3:8008/play/a04h/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://189.50.210.3:8008/play/a07m/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2 HD
 http://189.50.210.3:8008/play/a04e/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2 HD
@@ -85,12 +91,6 @@ http://189.50.210.3:8008/play/a03z/index.m3u8
 http://189.50.210.3:8008/play/a04c/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 7
 http://189.50.210.3:8008/play/a05v/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
-http://189.50.210.3:8008/play/a038/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
-http://189.50.210.3:8008/play/a04h/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
-http://189.50.210.3:8008/play/a07m/index.m3u8
 #EXTINF:-1 group-title="-",ESPN Premium HD
 http://189.50.210.3:8008/play/a07q/index.m3u8
 #EXTINF:-1 group-title="-",ESPN Premium HD
