@@ -229,3 +229,7 @@ http://189.50.210.3:8008/play/a05m/index.m3u8
 http://189.50.210.3:8008/play/a02x/index.m3u8
 #EXTINF:-1 group-title="-",Win Sports+ HD
 http://189.50.210.3:8008/play/a04n/index.m3u8
+#EXTINF:-1 group-title="-", Win
+http://181.128.145.103:4000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="-", Winsport
+http://181.128.145.103:4000/play/a0do/index.m3u8
